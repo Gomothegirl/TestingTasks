@@ -64,10 +64,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="112b4e6e-8572-4f54-85bf-032e95e38070" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="112b4e6e-8572-4f54-85bf-032e95e38070" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -219,6 +216,14 @@
       <option name="presentableId" value="Default" />
       <updated>1648027933984</updated>
     </task>
+    <task id="LOCAL-00001" summary="add API Tests">
+      <created>1648045726535</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1648045726535</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -233,15 +238,19 @@
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add API Tests" />
+    <option name="LAST_COMMIT_MESSAGE" value="add API Tests" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="223" y="27" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1648033055811">
       <screen x="0" y="0" width="1536" height="742" />
     </state>
     <state x="223" y="27" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.742@0.0.1536.742" timestamp="1648033055811" />
-    <state x="305" y="0" key="CommitChangelistDialog2" timestamp="1648043839824">
+    <state x="305" y="0" key="CommitChangelistDialog2" timestamp="1648045724482">
       <screen x="0" y="0" width="1536" height="742" />
     </state>
-    <state x="305" y="0" key="CommitChangelistDialog2/0.0.1536.742@0.0.1536.742" timestamp="1648043839824" />
+    <state x="305" y="0" key="CommitChangelistDialog2/0.0.1536.742@0.0.1536.742" timestamp="1648045724482" />
     <state width="1493" height="521" key="GridCell.Tab.0.bottom" timestamp="1648043757258">
       <screen x="0" y="0" width="1536" height="742" />
     </state>
@@ -258,5 +267,9 @@
       <screen x="0" y="0" width="1536" height="742" />
     </state>
     <state width="1493" height="521" key="GridCell.Tab.0.right/0.0.1536.742@0.0.1536.742" timestamp="1648043757258" />
+    <state x="361" y="92" key="Vcs.Push.Dialog.v2" timestamp="1648045796115">
+      <screen x="0" y="0" width="1536" height="742" />
+    </state>
+    <state x="361" y="92" key="Vcs.Push.Dialog.v2/0.0.1536.742@0.0.1536.742" timestamp="1648045796115" />
   </component>
 </project>
