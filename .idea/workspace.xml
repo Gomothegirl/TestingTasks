@@ -64,7 +64,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="112b4e6e-8572-4f54-85bf-032e95e38070" name="Default Changelist" comment="" />
+    <list default="true" id="112b4e6e-8572-4f54-85bf-032e95e38070" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/APITest/APITestTask.groovy" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/APITest/APITestTask.groovy" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -278,9 +281,13 @@
       <screen x="0" y="0" width="1536" height="742" />
     </state>
     <state x="361" y="92" key="Vcs.Push.Dialog.v2/0.0.1536.742@0.0.1536.742" timestamp="1648045930392" />
-    <state x="578" y="286" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1648046102321">
+    <state x="578" y="286" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1648211146198">
       <screen x="0" y="0" width="1536" height="742" />
     </state>
-    <state x="578" y="286" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.742@0.0.1536.742" timestamp="1648046102321" />
+    <state x="578" y="286" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.742@0.0.1536.742" timestamp="1648211146198" />
+    <state x="209" y="33" key="new project wizard" timestamp="1648102452515">
+      <screen x="0" y="0" width="1536" height="742" />
+    </state>
+    <state x="209" y="33" key="new project wizard/0.0.1536.742@0.0.1536.742" timestamp="1648102452515" />
   </component>
 </project>

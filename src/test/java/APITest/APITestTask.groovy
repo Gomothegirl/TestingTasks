@@ -4,10 +4,8 @@ import io.restassured.http.ContentType
 import io.restassured.response.Response
 import spock.lang.Specification
 import spock.lang.Unroll
-
 import static io.restassured.RestAssured.*;
-import static io.restassured.matcher.RestAssuredMatchers.*;
-import static org.hamcrest.Matchers.*;
+
 
 class APITestTask extends Specification {
     @Unroll
@@ -26,13 +24,13 @@ class APITestTask extends Specification {
     def "Create a new user"() {
         given: "base url is working"
         def url = "https://jsonplaceholder.typicode.com/users"
-        when: "Creating a new user"
+        when: "Creating a new-user"
         def response = given()
                 .contentType(ContentType.JSON)
                 .body("""{
     "name": "Leanne Graham",
     "username": "Bret",
-    "email": "Sincere@april.biz",
+    "email": "sincere@april.biz",
     "address": {
         "street": "Kulas Light",
         "suite": "Apt. 556",
